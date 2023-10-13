@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "kevin.sanchez.cursogithub"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kevin.sanchez.cursogithub"
